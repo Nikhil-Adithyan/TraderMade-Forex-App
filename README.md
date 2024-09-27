@@ -19,7 +19,7 @@ This app supports the following features:
 ![Currency Converter App](https://tradermade.com/static/uploads/streamlit-dashboard.png)
 
 ```
-git clone https://github.com/Nikhil-Adithyan/TraderMade-Forex-App/
+git clone [https://github.com/Nikhil-Adithyan/TraderMade-Forex-App/](https://github.com/Nikhil-Adithyan/TraderMade-Forex-App.git)
 cd TraderMade-Forex-App
 
 pip install -r requirements.txt
