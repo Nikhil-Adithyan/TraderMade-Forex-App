@@ -24,7 +24,8 @@ st.markdown(
 with open('style.css') as f:
     st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html = True)
 
-api_key = 'Jm8O3tsF_UWhvzPcp1ZO'
+# add your own api_key here
+api_key = 'api_key'
 
 with st.container():
     from_col, amount_col, emp_col, text_col, emp_col, to_col = st.columns([0.5,0.5,0.05,0.08,0.05,0.5])
