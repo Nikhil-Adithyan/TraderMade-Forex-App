@@ -18,6 +18,15 @@ This app supports the following features:
 
 ![Currency Converter App](https://tradermade.com/static/uploads/streamlit-dashboard.png)
 
+```
+git clone https://github.com/Nikhil-Adithyan/TraderMade-Forex-App/
+cd TraderMade-Forex-App
+
+pip install -r requirements.txt
+
+streamlit run app.py
+```
+
 ## Docs
 
 * [TraderMade API Documentation](https://tradermade.com/docs/restful-api) -- Full documentation for the TraderMade API endpoints.
